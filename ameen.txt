@@ -4,3 +4,6 @@ created in branch Ameen
 Change in Branch Ameen!!
 
 Change 3
+Change FROM B1-BRANCH
+Change from B2-Branch!!
+Merge Confilct Resolved!
